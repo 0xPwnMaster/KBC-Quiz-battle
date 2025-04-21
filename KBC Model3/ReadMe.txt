@@ -1,1 +1,0 @@
-In model 3 we are gonna fetch question from api
