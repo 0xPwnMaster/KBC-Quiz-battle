@@ -1,0 +1,39 @@
+# 🎮 KBC Console Quiz Game
+
+Welcome to the **Kaun Banega Coderpati (KBC)** console-based quiz game — a fun and interactive game inspired by the popular show *Kaun Banega Crorepati*! Play through levels of increasing difficulty (Beginner, Pro, Hacker), answer questions, and earn virtual cookies 🍪 for each correct answer.
+
+--- 
+
+## 🧠 Features
+
+- 💡 Multiple Levels (Beginner, Pro, Hacker)
+- ✅ Answer validation (case-insensitive)
+- 🍪 Cookie reward system
+- 🎨 Colored console interface (thanks to Colorama)
+- 🔥 Fun messages & level progression
+- 📜 JSON-based question loading
+
+---
+
+## File Structure
+KBC Model 2.0
+├── main.py
+├── question.json
+├── README.md
+├── requirements.txt
+└── LICENSE
+
+
+## 🚀 How to Run
+
+1. **Clone the repository:**
+2. **Run main.py file**
+3. **Question will displayed in CLI**
+
+## 🤝 Contributing
+
+Currently a solo project — but suggestions are welcome! Feel free to fork and play with it.
+
+```bash
+git clone https://github.com/your-username/kbc-quiz-game.git
+cd kbc-quiz-game
